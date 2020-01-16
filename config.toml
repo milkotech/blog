@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://milkotech.github.io"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
